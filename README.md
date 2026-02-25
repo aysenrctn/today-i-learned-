@@ -1,4 +1,5 @@
 # 📚 Today I Learned (TIL)
+
 A collection of concise write-ups on my daily technical discoveries, engineering principles, and problem-solving techniques.
 
 > *"The best way to learn is to document and share."*
@@ -7,24 +8,42 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 
 ## 📂 Categories
 
-### 🐍 Python & Data Science
-* [Pandas: Data Cleaning and Analysis](./python/pandas-basics.md)
-* [Data Visualization with Matplotlib & Seaborn](./python/visualization.md)
+### 🤖 AI & API Integration
+* [Gemini API: Integration & Error Handling](./api/gemini-integration.md)
 
-### 🐳 DevOps & Cloud (Huawei Cloud)
-* [Docker: Essential Commands and Containerization](./devops/docker-essentials.md)
-* [Cloud Infrastructure: Tech Essentials Notes](./devops/cloud-infrastructure.md)
+### 🏗️ Architecture & Scaling
+* [From Prototype to Product: Scalability & Costs](./architecture/product-scaling.md)
 
-### 👁️ Computer Vision
-* [Introduction to Image Processing with OpenCV](./opencv/basics.md)
+### 🗄️ Database Management
+* [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
+* [Database Design Principles & Architecture](./database/design-architecture.md)
+* [Database Initialization & Schema Design](./database/init-and-schema.md)
 
-### 🏗️ Algorithms & Logic Design
-* [Optimization Strategies in Logic Frameworks](./algorithms/logic-optimization.md)
+### 🐳 DevOps & Cloud
+* [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
+* [Service Orchestration with Docker Compose](./devops/docker-compose-setup.md)
+* [Docker Essentials](./devops/docker-essentials.md)
+
+### 🌐 Frontend Development
+* [TalentAI Pro: Branding & Interactive UI](./frontend/talentai-pro-branding.md)
+* [Next.js: Handling Media Errors & Async Playback](./frontend/nextjs-media-handling.md)
+* [UI Refinement & Resource Management](./frontend/ui-and-resource-management.md)
+
+### 🛠️ Git & Workflow
+* [Professional Git Workflow & Collaboration](./git/collaboration-workflow.md)
+* [Development Workflow Optimization](./workflow/dev-vs-production.md)
+
+### 🎨 UI/UX Design
+* [Prototyping with Figma](./ui-ux/figma-prototyping.md)
+
+### 📢 Project Management
+* [Progress Report & Roadmap Planning](./management/project-reporting-roadmap.md)
+* [UI Updates & Team Presentation](./management/weekly-sync-presentation.md)
 
 ---
 
 ## 🚀 Contribution Process
-I document at least one technical concept every day to maintain a habit of continuous learning. This repository serves as my digital memory and a roadmap of my professional growth as a Computer Engineering student.
+I try to document at least one technical concept every day to maintain a habit of continuous learning. This repository serves as my digital memory and a roadmap of my professional growth as a Computer Engineering student.
 
 ---
 
