@@ -32,7 +32,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 ### 🛠️ Git & Workflow
 * [Professional Git Workflow & Collaboration](./git/collaboration-workflow.md)
 * [Development Workflow Optimization](./workflow/dev-vs-production.md)
-* [Git Collaboration: Merging & Conflict Resolution](./git/git-conflict-resolution.md)
+* [Git Collaboration: Merging & Conflict Resolution](./git/conflict-resolution.md)
 
 ### 🎨 UI/UX Design
 * [Prototyping with Figma](./ui-ux/figma-prototyping.md)
