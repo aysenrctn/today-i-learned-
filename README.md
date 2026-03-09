@@ -40,6 +40,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 ### 📢 Project Management
 * [Progress Report & Roadmap Planning](./management/project-reporting-roadmap.md)
 * [UI Updates & Team Presentation](./management/weekly-sync-presentation.md)
+* [Project Completion & Final Presentation Prep](./management/project-completion.md)
 
 ---
 
