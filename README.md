@@ -28,6 +28,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [TalentAI Pro: Branding & Interactive UI](./frontend/talentai-pro-branding.md)
 * [Next.js: Handling Media Errors & Async Playback](./frontend/nextjs-media-handling.md)
 * [UI Refinement & Resource Management](./frontend/ui-and-resource-management.md)
+* [Frontend Pivot: Platform Research & Evaluation](./frontend/frontend-platform-research.md)
 
 ### 🛠️ Git & Workflow
 * [Professional Git Workflow & Collaboration](./git/collaboration-workflow.md)
