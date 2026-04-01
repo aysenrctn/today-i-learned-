@@ -13,6 +13,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 
 ### 🏗️ Architecture & Scaling
 * [From Prototype to Product: Scalability & Costs](./architecture/product-scaling.md)
+* [Interview Automation: Cost-Benefit Analysis](./architecture/interview-automation-research.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
@@ -42,6 +43,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Progress Report & Roadmap Planning](./management/project-reporting-roadmap.md)
 * [UI Updates & Team Presentation](./management/weekly-sync-presentation.md)
 * [Project Completion & Final Presentation Prep](./management/project-completion.md)
+* [Market Research: Competitive Analysis & UI Ideation](./management/competitive-analysis.md)
 
 ---
 
