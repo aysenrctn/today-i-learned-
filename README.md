@@ -14,6 +14,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 ### 🏗️ Architecture & Scaling
 * [From Prototype to Product: Scalability & Costs](./architecture/product-scaling.md)
 * [Interview Automation: Cost-Benefit Analysis](./architecture/interview-automation-research.md)
+* [Software Project Analysis: Scope, Stakeholders & Requirements](./architecture/project-analysis-and-stakeholders.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
