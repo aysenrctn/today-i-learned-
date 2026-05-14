@@ -16,6 +16,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Interview Automation: Cost-Benefit Analysis](./architecture/interview-automation-research.md)
 * [Software Project Analysis: Scope, Stakeholders & Requirements](./architecture/project-analysis-and-stakeholders.md)
 * [Real-Time IoT Vending System with FreeRTOS](./embedded/rtos-vending-system.md)
+* [System Design: Sequence Diagrams & Fintech Project Planning](./architecture/sequence-diagram-fintech.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
