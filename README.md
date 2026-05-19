@@ -38,6 +38,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Professional Git Workflow & Collaboration](./git/collaboration-workflow.md)
 * [Development Workflow Optimization](./workflow/dev-vs-production.md)
 * [Git Collaboration: Merging & Conflict Resolution](./git/conflict-resolution.md)
+* [Code Quality: Logic Refactoring & UI Enhancement](./workflow/refactoring-and-ui-polish.md)
 
 ### 🎨 UI/UX Design
 * [Prototyping with Figma](./ui-ux/figma-prototyping.md)
@@ -48,6 +49,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [UI Updates & Team Presentation](./management/weekly-sync-presentation.md)
 * [Project Completion & Final Presentation Prep](./management/project-completion.md)
 * [Market Research: Competitive Analysis & UI Ideation](./management/competitive-analysis.md)
+* [Product Marketing: Demo Video Production](./management/product-demo-production.md)
 
 ---
 
