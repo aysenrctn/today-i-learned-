@@ -17,6 +17,8 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Software Project Analysis: Scope, Stakeholders & Requirements](./architecture/project-analysis-and-stakeholders.md)
 * [Real-Time IoT Vending System with FreeRTOS](./embedded/rtos-vending-system.md)
 * [System Design: Sequence Diagrams & Fintech Project Planning](./architecture/sequence-diagram-fintech.md)
+* [System Modeling: Sequence & Activity Diagrams](./architecture/uml-modeling-diagrams.md)
+* [Automata Theory: E-Commerce Logic Modeling](./architecture/e-commerce-finite-automata.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
