@@ -30,6 +30,9 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Service Orchestration with Docker Compose](./devops/docker-compose-setup.md)
 * [Docker Essentials](./devops/docker-essentials.md)
 
+### 🌐 Environment & Earth Analytics
+* [Remote Sensing: Multispectral Image Analysis](./environment/multispectral-image-analysis.md)
+
 ### 🌐 Frontend Development
 * [TalentAI Pro: Branding & Interactive UI](./frontend/talentai-pro-branding.md)
 * [Next.js: Handling Media Errors & Async Playback](./frontend/nextjs-media-handling.md)
