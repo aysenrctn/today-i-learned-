@@ -24,6 +24,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
 * [Database Design Principles & Architecture](./database/design-architecture.md)
 * [Database Initialization & Schema Design](./database/init-and-schema.md)
+* [Database Security, Schema Mutation & Advanced Constraints](./database/advanced-sql-dcl-ddl.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
