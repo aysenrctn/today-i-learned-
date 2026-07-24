@@ -25,7 +25,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Database Design Principles & Architecture](./database/design-architecture.md)
 * [Database Initialization & Schema Design](./database/init-and-schema.md)
 * [Database Security, Schema Mutation & Advanced Constraints](./database/advanced-sql-dcl-ddl.md)
-* [SQL Analytics: Advanced Aggregations, Math & Joins](./database/hackerrank-sql-analytics.md)
+* [SQL Analytics: Advanced Aggregations, Math & Joins](./database/sql-advanced-analytics-and-math.md)
 * [Data Migration: Flat File (TXT) to SQL Ingestion](./database/txt-to-sql-data-migration.md)
 
 ### 🐳 DevOps & Cloud
