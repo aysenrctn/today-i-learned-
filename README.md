@@ -25,6 +25,8 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Database Design Principles & Architecture](./database/design-architecture.md)
 * [Database Initialization & Schema Design](./database/init-and-schema.md)
 * [Database Security, Schema Mutation & Advanced Constraints](./database/advanced-sql-dcl-ddl.md)
+* [SQL Analytics: Advanced Aggregations, Math & Joins](./database/hackerrank-sql-analytics.md)
+* [Data Migration: Flat File (TXT) to SQL Ingestion](./database/txt-to-sql-data-migration.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
@@ -56,6 +58,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Project Completion & Final Presentation Prep](./management/project-completion.md)
 * [Market Research: Competitive Analysis & UI Ideation](./management/competitive-analysis.md)
 * [Product Marketing: Demo Video Production](./management/product-demo-production.md)
+* [Tech Ecosystem: Huawei & Techstars Seminar Insights](./management/huawei-techstars-seminar.md)
 
 ---
 
