@@ -58,7 +58,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Project Completion & Final Presentation Prep](./management/project-completion.md)
 * [Market Research: Competitive Analysis & UI Ideation](./management/competitive-analysis.md)
 * [Product Marketing: Demo Video Production](./management/product-demo-production.md)
-* [Tech Ecosystem: Huawei & Techstars Seminar Insights](./management/huawei-techstars-seminar.md)
+* [Tech Ecosystem: Huawei & Techstars Seminar Insights](./management/tech-ecosystem-insights.md)
 
 ---
 
