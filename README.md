@@ -29,6 +29,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Data Migration: Flat File (TXT) to SQL Ingestion](./database/txt-to-sql-data-migration.md)
 * [Advanced SQL: Data Integrity, Constraints & CTAS](./database/advanced-sql-constraints-and-ctas.md)
 * [Data Engineering: Enterprise Architecture & ETL Mapping Debugging](./database/enterprise-data-architecture-and-etl-debugging.md)
+* [Data Warehouse ETL Debugging: Root Cause Analysis & Metadata Querying](database/etl-data-warehouse-debugging-and-metadata.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
