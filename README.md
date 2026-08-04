@@ -30,6 +30,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Advanced SQL: Data Integrity, Constraints & CTAS](./database/advanced-sql-constraints-and-ctas.md)
 * [Data Engineering: Enterprise Architecture & ETL Mapping Debugging](./database/enterprise-data-architecture-and-etl-debugging.md)
 * [Data Warehouse ETL Debugging: Root Cause Analysis & Metadata Querying](database/etl-data-warehouse-debugging-and-metadata.md)
+* [SQL Analytics: Data Lineage Mapping & Customer Inactivity Analysis](./database/data-lineage-and-inactivity-analytics.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
