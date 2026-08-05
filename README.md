@@ -19,6 +19,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [System Design: Sequence Diagrams & Fintech Project Planning](./architecture/sequence-diagram-fintech.md)
 * [System Modeling: Sequence & Activity Diagrams](./architecture/uml-modeling-diagrams.md)
 * [Automata Theory: E-Commerce Logic Modeling](./architecture/e-commerce-finite-automata.md)
+* [Enterprise Systems: Database Link (DBLink) Architecture & Code Review](./architecture/dblink-architecture-and-code-review.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
@@ -31,6 +32,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Data Engineering: Enterprise Architecture & ETL Mapping Debugging](./database/enterprise-data-architecture-and-etl-debugging.md)
 * [Data Warehouse ETL Debugging: Root Cause Analysis & Metadata Querying](database/etl-data-warehouse-debugging-and-metadata.md)
 * [SQL Analytics: Data Lineage Mapping & Customer Inactivity Analysis](./database/data-lineage-and-inactivity-analytics.md)
+* [SQL Analytics: Customer Segmentation, Campaign Analysis & Daily Metrics](./database/customer-analytics-and-campaign-metrics.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
