@@ -34,6 +34,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [SQL Analytics: Data Lineage Mapping & Customer Inactivity Analysis](./database/data-lineage-and-inactivity-analytics.md)
 * [SQL Analytics: Customer Segmentation, Campaign Analysis & Daily Metrics](./database/customer-analytics-and-campaign-metrics.md)
 * [Data Engineering: Data Quality Audit, Temporal Discrepancy & Query Refactoring](./database/data-quality-audit-and-query-refactoring.md)
+* [Data Engineering: Granularity Mismatches, Discrepancy Root-Cause Analysis & ETL Debugging](./database/etl-granularity-and-discrepancy-analysis.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
