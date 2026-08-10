@@ -20,6 +20,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [System Modeling: Sequence & Activity Diagrams](./architecture/uml-modeling-diagrams.md)
 * [Automata Theory: E-Commerce Logic Modeling](./architecture/e-commerce-finite-automata.md)
 * [Enterprise Systems: Database Link (DBLink) Architecture & Code Review](./architecture/dblink-architecture-and-code-review.md)
+* [Business Intelligence: Understanding Qlik & Enterprise Data Visualization](./architecture/qlik-bi-fundamentals.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
@@ -35,6 +36,8 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [SQL Analytics: Customer Segmentation, Campaign Analysis & Daily Metrics](./database/customer-analytics-and-campaign-metrics.md)
 * [Data Engineering: Data Quality Audit, Temporal Discrepancy & Query Refactoring](./database/data-quality-audit-and-query-refactoring.md)
 * [Data Engineering: Granularity Mismatches, Discrepancy Root-Cause Analysis & ETL Debugging](./database/etl-granularity-and-discrepancy-analysis.md)
+* [SQL Analytics: Customer Performance, Transaction Baselines & TOP-N Slicing](./database/sql-customer-analytics-and-top-n.md)
+* [Data Engineering: ETL Load Plan Failure & File System Dependency Debugging](./database/etl-file-dependency-and-load-plan-debugging.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
