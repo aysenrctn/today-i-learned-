@@ -38,6 +38,8 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Data Engineering: Granularity Mismatches, Discrepancy Root-Cause Analysis & ETL Debugging](./database/etl-granularity-and-discrepancy-analysis.md)
 * [SQL Analytics: Customer Performance, Transaction Baselines & TOP-N Slicing](./database/sql-customer-analytics-and-top-n.md)
 * [Data Engineering: ETL Load Plan Failure & File System Dependency Debugging](./database/etl-file-dependency-and-load-plan-debugging.md)
+* [Advanced SQL: Behavioral Analytics, Window Functions & Pareto Analysis](./database/advanced-sql-behavioral-and-pareto-analytics.md)
+* [Data Engineering: ODS-ETL-DWH Column Mapping & Schema Evolution](./database/dwh-schema-evolution-and-column-mapping.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
