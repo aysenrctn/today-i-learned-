@@ -40,6 +40,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Data Engineering: ETL Load Plan Failure & File System Dependency Debugging](./database/etl-file-dependency-and-load-plan-debugging.md)
 * [Advanced SQL: Behavioral Analytics, Window Functions & Pareto Analysis](./database/advanced-sql-behavioral-and-pareto-analytics.md)
 * [Data Engineering: ODS-ETL-DWH Column Mapping & Schema Evolution](./database/dwh-schema-evolution-and-column-mapping.md)
+* [SQL Governance: Automated Soft-Delete Auditing & DWH ID Deduplication](./database/sql-governance-soft-delete-audit.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
