@@ -21,6 +21,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Automata Theory: E-Commerce Logic Modeling](./architecture/e-commerce-finite-automata.md)
 * [Enterprise Systems: Database Link (DBLink) Architecture & Code Review](./architecture/dblink-architecture-and-code-review.md)
 * [Business Intelligence: Understanding Qlik & Enterprise Data Visualization](./architecture/qlik-bi-fundamentals.md)
+* [Business Intelligence: Qlik Access Provisioning & Dashboard Metrics Audit](./architecture/qlik-interface-and-metrics-validation.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
@@ -41,6 +42,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Advanced SQL: Behavioral Analytics, Window Functions & Pareto Analysis](./database/advanced-sql-behavioral-and-pareto-analytics.md)
 * [Data Engineering: ODS-ETL-DWH Column Mapping & Schema Evolution](./database/dwh-schema-evolution-and-column-mapping.md)
 * [SQL Governance: Automated Soft-Delete Auditing & DWH ID Deduplication](./database/sql-governance-soft-delete-audit.md)
+* [Data Engineering: ODI Scenario Regeneration & Multi-Tenant CDP Audit](./database/odi-scenario-regeneration-and-cdp-audit.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
