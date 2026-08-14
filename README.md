@@ -43,6 +43,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Data Engineering: ODS-ETL-DWH Column Mapping & Schema Evolution](./database/dwh-schema-evolution-and-column-mapping.md)
 * [SQL Governance: Automated Soft-Delete Auditing & DWH ID Deduplication](./database/sql-governance-soft-delete-audit.md)
 * [Data Engineering: ODI Scenario Regeneration & Multi-Tenant CDP Audit](./database/odi-scenario-regeneration-and-cdp-audit.md)
+* [SQL Governance: View DDL Parsing & Automated Filter Injection Edge Cases](./database/sql-view-filter-injection-and-edge-cases.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
@@ -76,6 +77,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Product Marketing: Demo Video Production](./management/product-demo-production.md)
 * [Tech Ecosystem: Huawei & Techstars Seminar Insights](./management/tech-ecosystem-insights.md)
 * [Engineering Workflow: Weekly Team Coordination & Alignment](./management/weekly-coordination-and-sprint-alignment.md)
+* [Agile Delivery: Sprint Planning & Continuous ETL Pipeline Maintenance](./management/sprint-planning-and-pipeline-maintenance.md)
 
 ---
 
