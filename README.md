@@ -44,6 +44,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [SQL Governance: Automated Soft-Delete Auditing & DWH ID Deduplication](./database/sql-governance-soft-delete-audit.md)
 * [Data Engineering: ODI Scenario Regeneration & Multi-Tenant CDP Audit](./database/odi-scenario-regeneration-and-cdp-audit.md)
 * [SQL Governance: View DDL Parsing & Automated Filter Injection Edge Cases](./database/sql-view-filter-injection-and-edge-cases.md)
+* [SQL Analytics: BI Metric Reconciliation & Loyalty/Retail KPIs](./database/bi-metric-reconciliation-and-retail-kpis.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
