@@ -22,6 +22,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Enterprise Systems: Database Link (DBLink) Architecture & Code Review](./architecture/dblink-architecture-and-code-review.md)
 * [Business Intelligence: Understanding Qlik & Enterprise Data Visualization](./architecture/qlik-bi-fundamentals.md)
 * [Business Intelligence: Qlik Access Provisioning & Dashboard Metrics Audit](./architecture/qlik-interface-and-metrics-validation.md)
+* [System Architecture: Legacy Pipeline Refactoring vs. Modern Schema Migration](./architecture/legacy-refactoring-vs-schema-migration.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
@@ -79,6 +80,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Tech Ecosystem: Huawei & Techstars Seminar Insights](./management/tech-ecosystem-insights.md)
 * [Engineering Workflow: Weekly Team Coordination & Alignment](./management/weekly-coordination-and-sprint-alignment.md)
 * [Agile Delivery: Sprint Planning & Continuous ETL Pipeline Maintenance](./management/sprint-planning-and-pipeline-maintenance.md)
+* [Engineering Management: Migration Feasibility Deck & Technical Presentation](./management/technical-migration-deck-and-mentor-alignment.md)
 
 ---
 
