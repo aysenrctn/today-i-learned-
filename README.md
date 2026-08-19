@@ -46,6 +46,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Data Engineering: ODI Scenario Regeneration & Multi-Tenant CDP Audit](./database/odi-scenario-regeneration-and-cdp-audit.md)
 * [SQL Governance: View DDL Parsing & Automated Filter Injection Edge Cases](./database/sql-view-filter-injection-and-edge-cases.md)
 * [SQL Analytics: BI Metric Reconciliation & Loyalty/Retail KPIs](./database/bi-metric-reconciliation-and-retail-kpis.md)
+* [SQL Governance: Advanced View DDL Rewriter & Complex Edge-Case Handling](./database/sql-view-ast-filter-rewriter-edge-cases.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
@@ -81,6 +82,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Engineering Workflow: Weekly Team Coordination & Alignment](./management/weekly-coordination-and-sprint-alignment.md)
 * [Agile Delivery: Sprint Planning & Continuous ETL Pipeline Maintenance](./management/sprint-planning-and-pipeline-maintenance.md)
 * [Engineering Management: Migration Feasibility Deck & Technical Presentation](./management/technical-migration-deck-and-mentor-alignment.md)
+* [Engineering Management: Technical Presentation Finalization & Alignment](./management/architecture-presentation-and-mentor-alignment.md)
 
 ---
 
