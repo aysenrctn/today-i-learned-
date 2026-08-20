@@ -47,6 +47,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [SQL Governance: View DDL Parsing & Automated Filter Injection Edge Cases](./database/sql-view-filter-injection-and-edge-cases.md)
 * [SQL Analytics: BI Metric Reconciliation & Loyalty/Retail KPIs](./database/bi-metric-reconciliation-and-retail-kpis.md)
 * [SQL Governance: Advanced View DDL Rewriter & Complex Edge-Case Handling](./database/sql-view-ast-filter-rewriter-edge-cases.md)
+* [Business Intelligence: Loyalty Architecture, Demographics & Growth Analytics](./database/bi-loyalty-demographics-and-growth-analytics.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
@@ -83,6 +84,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Agile Delivery: Sprint Planning & Continuous ETL Pipeline Maintenance](./management/sprint-planning-and-pipeline-maintenance.md)
 * [Engineering Management: Migration Feasibility Deck & Technical Presentation](./management/technical-migration-deck-and-mentor-alignment.md)
 * [Engineering Management: Technical Presentation Finalization & Alignment](./management/architecture-presentation-and-mentor-alignment.md)
+* [Engineering Management: Intern Presentation Scoping & Domain Research](./management/technical-presentation-scoping-and-research.md)
 
 ---
 
