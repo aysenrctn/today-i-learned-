@@ -48,6 +48,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [SQL Analytics: BI Metric Reconciliation & Loyalty/Retail KPIs](./database/bi-metric-reconciliation-and-retail-kpis.md)
 * [SQL Governance: Advanced View DDL Rewriter & Complex Edge-Case Handling](./database/sql-view-ast-filter-rewriter-edge-cases.md)
 * [Business Intelligence: Loyalty Architecture, Demographics & Growth Analytics](./database/bi-loyalty-demographics-and-growth-analytics.md)
+* [Database Engineering: Oracle Internals, Performance Optimization & Fine-Grained Security](./database/oracle-internals-storage-etl-and-security.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
@@ -85,6 +86,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Engineering Management: Migration Feasibility Deck & Technical Presentation](./management/technical-migration-deck-and-mentor-alignment.md)
 * [Engineering Management: Technical Presentation Finalization & Alignment](./management/architecture-presentation-and-mentor-alignment.md)
 * [Engineering Management: Intern Presentation Scoping & Domain Research](./management/technical-presentation-scoping-and-research.md)
+* [Engineering Management: Weekly Team Coordination & Technical Deck Creation](./management/weekly-sync-and-intern-deck-creation.md)
 
 ---
 
