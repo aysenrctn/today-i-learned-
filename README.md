@@ -51,6 +51,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Database Engineering: Oracle Internals, Performance Optimization & Fine-Grained Security](./database/oracle-internals-storage-etl-and-security.md)
 * [Database Engineering: DML Operations, Triggers & Ingestion Patterns](./database/oracle-dml-triggers-and-ingestion-patterns.md)
 * [Data Engineering: ETL Load Plan Performance & Execution Bottleneck Analysis](./database/etl-load-plan-performance-and-bottleneck-analysis.md)
+* [Data Engineering: ODI 12c Mapping Root-Cause Analysis & BI Reconciliation](./database/odi-mapping-root-cause-and-bi-reconciliation.md)
 
 ### 🐳 DevOps & Cloud
 * [Full-Stack Containerization: Frontend & Backend](./devops/fullstack-docker-setup.md)
@@ -91,6 +92,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Engineering Management: Weekly Team Coordination & Technical Deck Creation](./management/weekly-sync-and-intern-deck-creation.md)
 * [Engineering Growth: Peer Presentation on DWH Architecture & Query Optimization](./management/peer-presentation-dwh-architecture-and-optimization.md)
 * [Engineering Leadership: Delivering Oracle Internals, Performance & Security Presentation](./management/delivering-oracle-internals-presentation.md)
+* [Engineering Management: Technical Knowledge Distribution & Engineering Log Synthesis](./management/knowledge-sharing-and-internship-documentation.md)
 
 ---
 
