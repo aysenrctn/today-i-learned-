@@ -93,6 +93,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Engineering Growth: Peer Presentation on DWH Architecture & Query Optimization](./management/peer-presentation-dwh-architecture-and-optimization.md)
 * [Engineering Leadership: Delivering Oracle Internals, Performance & Security Presentation](./management/delivering-oracle-internals-presentation.md)
 * [Engineering Management: Technical Knowledge Distribution & Engineering Log Synthesis](./management/knowledge-sharing-and-internship-documentation.md)
+* [Engineering Management: Weekly Team Coordination, Platform Sprint Planning & Engineering Log Synthesis](./management/weekly-coordination-loyalty-sprint-and-documentation.md)
 
 ---
 
