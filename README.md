@@ -8,7 +8,10 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 
 ## 📂 Categories
 
-### 🤖 AI & API Integration
+### 🤖 Artificial Intelligence
+* [AI Systems: Multilingual Pipeline & Unit Cost Analysis](./ai/multilingual-pipeline-and-cost-analysis.md)
+  
+### 🔌API Integration
 * [Gemini API: Integration & Error Handling](./api/gemini-integration.md)
 
 ### 🏗️ Architecture & Scaling
@@ -76,6 +79,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 ### 🎨 UI/UX Design
 * [Prototyping with Figma](./ui-ux/figma-prototyping.md)
 * [Admin Dashboard: Ad Panel Interface Design](./ui-ux/ad-panel-design.md)
+* [Portfolio Design: Architecture & Showcase Strategy](./ui-ux/developer-portfolio-showcase-strategy.md)
 
 ### 📢 Project Management
 * [Progress Report & Roadmap Planning](./management/project-reporting-roadmap.md)
