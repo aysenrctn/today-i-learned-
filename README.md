@@ -26,6 +26,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Business Intelligence: Understanding Qlik & Enterprise Data Visualization](./architecture/qlik-bi-fundamentals.md)
 * [Business Intelligence: Qlik Access Provisioning & Dashboard Metrics Audit](./architecture/qlik-interface-and-metrics-validation.md)
 * [System Architecture: Legacy Pipeline Refactoring vs. Modern Schema Migration](./architecture/legacy-refactoring-vs-schema-migration.md)
+* [Architecture: Gap Analysis & Server Infrastructure Evaluation](./architecture/system-gap-analysis-and-server-evaluation.md)
 
 ### 🗄️ Database Management
 * [PostgreSQL Setup & Tooling](./database/postgresql-setup.md)
@@ -69,7 +70,8 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Next.js: Handling Media Errors & Async Playback](./frontend/nextjs-media-handling.md)
 * [UI Refinement & Resource Management](./frontend/ui-and-resource-management.md)
 * [Frontend Pivot: Platform Research & Evaluation](./frontend/frontend-platform-research.md)
-
+* [Frontend: Interview Platform Interface & User Flow](./frontend/interview-interface-layout-and-ux.md)
+  
 ### 🛠️ Git & Workflow
 * [Professional Git Workflow & Collaboration](./git/collaboration-workflow.md)
 * [Development Workflow Optimization](./workflow/dev-vs-production.md)
