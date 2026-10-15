@@ -77,6 +77,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Development Workflow Optimization](./workflow/dev-vs-production.md)
 * [Git Collaboration: Merging & Conflict Resolution](./git/conflict-resolution.md)
 * [Code Quality: Logic Refactoring & UI Enhancement](./workflow/refactoring-and-ui-polish.md)
+* [Software Engineering: Technical Assessment Refactoring, Defect Resolution & PR Lifecycle](./workflow/technical-assessment-refactoring-and-pr.md)
 
 ### 🎨 UI/UX Design
 * [Prototyping with Figma](./ui-ux/figma-prototyping.md)
