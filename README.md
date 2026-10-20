@@ -71,6 +71,9 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [UI Refinement & Resource Management](./frontend/ui-and-resource-management.md)
 * [Frontend Pivot: Platform Research & Evaluation](./frontend/frontend-platform-research.md)
 * [Frontend: Interview Platform Interface & User Flow](./frontend/interview-interface-layout-and-ux.md)
+
+### 📱 Mobile Development
+* [Mobile Engineering: Flutter SDK Setup, VS Code Tooling & First Widget](./mobile/flutter-environment-setup-and-first-app.md)
   
 ### 🛠️ Git & Workflow
 * [Professional Git Workflow & Collaboration](./git/collaboration-workflow.md)
@@ -101,6 +104,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [Engineering Leadership: Delivering Oracle Internals, Performance & Security Presentation](./management/delivering-oracle-internals-presentation.md)
 * [Engineering Management: Technical Knowledge Distribution & Engineering Log Synthesis](./management/knowledge-sharing-and-internship-documentation.md)
 * [Engineering Management: Weekly Team Coordination, Platform Sprint Planning & Engineering Log Synthesis](./management/weekly-coordination-loyalty-sprint-and-documentation.md)
+* [Product Strategy: Competitive Benchmarking & Feature Gap Analysis](./management/assessment-competitive-analysis-and-benchmarking.md)
 
 ---
 
