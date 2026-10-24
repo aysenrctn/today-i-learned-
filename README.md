@@ -10,6 +10,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 
 ### 🤖 Artificial Intelligence
 * [AI Systems: Multilingual Pipeline & Unit Cost Analysis](./ai/multilingual-pipeline-and-cost-analysis.md)
+* [AI Systems: Thesis Literature Review & Tech-Stack Justification](./ai/thesis-literature-review-and-tech-benchmarking.md)
   
 ### 🔌API Integration
 * [Gemini API: Integration & Error Handling](./api/gemini-integration.md)
