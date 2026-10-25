@@ -11,6 +11,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 ### 🤖 Artificial Intelligence
 * [AI Systems: Multilingual Pipeline & Unit Cost Analysis](./ai/multilingual-pipeline-and-cost-analysis.md)
 * [AI Systems: Thesis Literature Review & Tech-Stack Justification](./ai/thesis-literature-review-and-tech-benchmarking.md)
+* [AI Systems: Thesis Literature Review & Tech-Stack Justification](./ai/thesis-document-research.md)
   
 ### 🔌API Integration
 * [Gemini API: Integration & Error Handling](./api/gemini-integration.md)
@@ -72,6 +73,7 @@ A collection of concise write-ups on my daily technical discoveries, engineering
 * [UI Refinement & Resource Management](./frontend/ui-and-resource-management.md)
 * [Frontend Pivot: Platform Research & Evaluation](./frontend/frontend-platform-research.md)
 * [Frontend: Interview Platform Interface & User Flow](./frontend/interview-interface-layout-and-ux.md)
+* [Frontend Engineering: Assessment Interface Implementation & Component Polish](./frontend/interview-platform-ui-implementation.md)
 
 ### 📱 Mobile Development
 * [Mobile Engineering: Flutter SDK Setup, VS Code Tooling & First Widget](./mobile/flutter-environment-setup-and-first-app.md)
